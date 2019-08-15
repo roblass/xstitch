@@ -1,0 +1,2 @@
+Pillow==8.0
+googlevoice==2.0.5
